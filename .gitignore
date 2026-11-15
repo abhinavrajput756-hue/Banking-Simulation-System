@@ -1,0 +1,5 @@
+*.exe
+banking
+accounts.dat
+*.o
+.vscode/
